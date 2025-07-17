@@ -1,0 +1,7 @@
+{
+  "name": "mati-games-stats",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
