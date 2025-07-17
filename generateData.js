@@ -5,96 +5,62 @@ const gameIds = [6431757712, 7016268111, 6789766645, 6614175388, 6528524000, 646
 ];
 
 const proxyUrl = "https://workers-playground-white-credit-775c.bloxyhdd.workers.dev/?url=";
+const wait = ms => new Promise(r => setTimeout(r, ms));
 
-let wait = ms => new Promise(resolve => setTimeout(resolve, ms));
-
-async function getGameData(universeId) {
-    try {
-        let apiUrl = `https://games.roblox.com/v1/games?universeIds=${universeId}`;
-        let response = await fetch(proxyUrl + encodeURIComponent(apiUrl));
-        if (response.ok) {
-            let json = await response.json();
-            if (json.data && json.data.length > 0) {
-                let game = json.data[0];
-                return {
-                    id: game.id,
-                    playing: game.playing || 0,
-                    visits: game.visits || 0
-                };
-            }
-        } else if (response.status === 429) {
-            await wait(500);
-            return getGameData(universeId);
-        }
-    } catch (error) {
-        console.error("Error fetching game data:", error);
-    }
-    return {
-        id: universeId,
-        playing: 0,
-        visits: 0
-    };
+async function fetchGameData(universeId) {
+    const apiUrl = `https://games.roblox.com/v1/games?universeIds=${universeId}`;
+    const res = await fetch(proxyUrl + encodeURIComponent(apiUrl));
+    const data = await res.json();
+    return data?.data?.[0];
 }
 
-async function getVotesData(universeIds) {
-    try {
-        let apiUrl = `https://games.roblox.com/v1/games/votes?universeIds=${universeIds.join(",")}`;
-        let response = await fetch(proxyUrl + encodeURIComponent(apiUrl));
-        if (response.ok) {
-            let json = await response.json();
-            return json.data || [];
-        } else if (response.status === 429) {
-            await wait(500);
-            return getVotesData(universeIds);
-        }
-    } catch (error) {
-        console.error("Error fetching vote data:", error);
-    }
-    return [];
+async function fetchVotes(universeId) {
+    const url = `https://games.roblox.com/v1/games/votes?universeIds=${universeId}`;
+    const res = await fetch(proxyUrl + encodeURIComponent(url));
+    const data = await res.json();
+    const votes = data?.data?.[0];
+    const total = votes.upVotes + votes.downVotes;
+    return total > 0 ? Math.round((votes.upVotes / total) * 100) : 0;
+}
+
+async function fetchIcon(universeId) {
+    const url = `https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=${universeId}&size=768x432&format=Png&isCircular=false`;
+    const res = await fetch(proxyUrl + encodeURIComponent(url));
+    const data = await res.json();
+    return data?.data?.[0]?.thumbnails?.[0]?.imageUrl ?? null;
 }
 
 (async () => {
-    const allGameData = await Promise.all(gameIds.map(id => getGameData(id)));
-    const votesData = await getVotesData(gameIds);
+    const allGames = [];
 
-    let totalPlayers = 0;
-    let totalVisits = 0;
+    for (const id of gameIds) {
+        try {
+            const game = await fetchGameData(id);
+            if (!game) continue;
 
-    for (const game of allGameData) {
-        totalPlayers += game.playing;
-        totalVisits += game.visits;
-    }
+            const [icon, likeRatio] = await Promise.all([
+                fetchIcon(id),
+                fetchVotes(id)
+            ]);
 
-    let filteredVotes = votesData.filter(v => (v.upVotes + v.downVotes) > 0);
-    filteredVotes.sort((a, b) => {
-        let aRatio = a.upVotes / (a.upVotes + a.downVotes);
-        let bRatio = b.upVotes / (b.upVotes + b.downVotes);
-        return aRatio - bRatio;
-    });
-    filteredVotes.shift();
+            allGames.push({
+                id: game.id,
+                rootPlaceId: game.rootPlaceId,
+                name: game.name,
+                playing: game.playing || 0,
+                visits: game.visits || 0,
+                likeRatio: likeRatio || 0,
+                icon: icon || ""
+            });
 
-    let totalRatio = 0;
-    let count = 0;
-    for (let vote of filteredVotes) {
-        let total = vote.upVotes + vote.downVotes;
-        if (total > 0) {
-            let ratio = (vote.upVotes / total) * 100;
-            totalRatio += ratio;
-            count++;
+            await wait(200);
+        } catch (err) {
+            console.error(`Failed to fetch data for ${id}:`, err);
         }
     }
 
-    let averageRating = count > 0 ? Math.round(totalRatio / count) : 0;
-
-    const result = {
-        updatedAt: new Date().toISOString(),
-        totalPlayers,
-        totalVisits,
-        averageRating,
-        gamesCreated: gameIds.length,
-        perGame: allGameData
-    };
+    allGames.sort((a, b) => b.playing - a.playing);
 
     fs.mkdirSync("public", { recursive: true });
-    fs.writeFileSync("public/games.json", JSON.stringify(result, null, 2));
+    fs.writeFileSync("public/games.json", JSON.stringify({ games: allGames }, null, 2));
 })();
