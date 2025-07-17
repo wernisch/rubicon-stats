@@ -2,7 +2,7 @@ name: Update Roblox Game Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
@@ -24,10 +24,16 @@ jobs:
       - name: Run script
         run: node generateData.js
 
-      - name: Commit and push
+      - name: Commit changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add public/games.json
-          git commit -m "Update game stats"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git commit -m "Update game stats" || echo "No changes to commit"
+
+      - name: Push changes using PAT
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+          git push origin HEAD:main
