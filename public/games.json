@@ -4,8 +4,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 1608,
-      "visits": 14465858,
+      "playing": 1567,
+      "visits": 14466689,
       "likeRatio": 67,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 6743843913,
       "rootPlaceId": 128600294498821,
       "name": "2 Player Duck Tycoon",
-      "playing": 594,
-      "visits": 12953132,
+      "playing": 613,
+      "visits": 12953287,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-c1bc077d118b97c84d216dbf625f19da/768/432/Image/Png/noFilter"
     },
@@ -109,15 +109,6 @@
       "icon": "https://tr.rbxcdn.com/180DAY-1c4ae19cb6bdc4de60172349f76d0e26/768/432/Image/Png/noFilter"
     },
     {
-      "id": 7263505269,
-      "rootPlaceId": 133104769669525,
-      "name": "Find the Dinos 🦕",
-      "playing": 20,
-      "visits": 640172,
-      "likeRatio": 86,
-      "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 7923536197,
       "rootPlaceId": 117262185010169,
       "name": "Brainrot Stairs",
@@ -136,11 +127,20 @@
       "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
     },
     {
+      "id": 7263505269,
+      "rootPlaceId": 133104769669525,
+      "name": "Find the Dinos 🦕",
+      "playing": 16,
+      "visits": 640179,
+      "likeRatio": 86,
+      "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 6528524000,
       "rootPlaceId": 119929651027130,
       "name": "Find the Frogs 🐸",
-      "playing": 17,
-      "visits": 1289629,
+      "playing": 15,
+      "visits": 1289634,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
     },
@@ -175,7 +175,7 @@
       "id": 6463581673,
       "rootPlaceId": 93262241099803,
       "name": "Find the Teddy Bears 🧸",
-      "playing": 2,
+      "playing": 3,
       "visits": 1642948,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-b387ecde2072ee0fad4d9f5d88175731/768/432/Image/Png/noFilter"
