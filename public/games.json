@@ -4,8 +4,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 2306,
-      "visits": 18885461,
+      "playing": 2275,
+      "visits": 18886578,
       "likeRatio": 68,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 2946951335,
       "rootPlaceId": 7585576110,
       "name": "Squid Game [S3]",
-      "playing": 1616,
-      "visits": 38154793,
+      "playing": 1600,
+      "visits": 38156522,
       "likeRatio": 73,
       "icon": "https://tr.rbxcdn.com/180DAY-60a2db071613f3c7ff4baeaff239e977/768/432/Image/Png/noFilter"
     },
@@ -58,8 +58,8 @@
       "id": 7016268111,
       "rootPlaceId": 110729496024718,
       "name": "Find the Ducks 2 🐤",
-      "playing": 138,
-      "visits": 5913599,
+      "playing": 141,
+      "visits": 5913649,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
     },
@@ -127,6 +127,15 @@
       "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
     },
     {
+      "id": 6528524000,
+      "rootPlaceId": 119929651027130,
+      "name": "Find the Frogs 🐸",
+      "playing": 10,
+      "visits": 1309943,
+      "likeRatio": 90,
+      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 7309264740,
       "rootPlaceId": 133065705122006,
       "name": "Midnight Groceries [HORROR]",
@@ -154,20 +163,11 @@
       "icon": "https://tr.rbxcdn.com/180DAY-b387ecde2072ee0fad4d9f5d88175731/768/432/Image/Png/noFilter"
     },
     {
-      "id": 6528524000,
-      "rootPlaceId": 119929651027130,
-      "name": "Find the Frogs 🐸",
-      "playing": 7,
-      "visits": 1309938,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 7517851351,
       "rootPlaceId": 81889525577944,
       "name": "Midnight Sprunki [HORROR]",
-      "playing": 5,
-      "visits": 610834,
+      "playing": 6,
+      "visits": 610836,
       "likeRatio": 84,
       "icon": "https://tr.rbxcdn.com/180DAY-6b6092da368bd9eb7829c89a4380265a/768/432/Image/Png/noFilter"
     },
@@ -181,15 +181,6 @@
       "icon": "https://tr.rbxcdn.com/180DAY-99cc172dadbf1489188e3cde15cd96f7/768/432/Image/Png/noFilter"
     },
     {
-      "id": 7072328729,
-      "rootPlaceId": 74938806882243,
-      "name": "Wait in Line to Become Frontman 🦑",
-      "playing": 1,
-      "visits": 1397153,
-      "likeRatio": 39,
-      "icon": "https://tr.rbxcdn.com/180DAY-72391e6c54f556aadc81e79a744dddc5/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 6789766645,
       "rootPlaceId": 90221426386460,
       "name": "Find the Doges 🐶",
@@ -197,6 +188,15 @@
       "visits": 672060,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-f1ca78d99552ee016bcd2b7eee56f6cf/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7072328729,
+      "rootPlaceId": 74938806882243,
+      "name": "Wait in Line to Become Frontman 🦑",
+      "playing": 0,
+      "visits": 1397153,
+      "likeRatio": 39,
+      "icon": "https://tr.rbxcdn.com/180DAY-72391e6c54f556aadc81e79a744dddc5/768/432/Image/Png/noFilter"
     },
     {
       "id": 7334543566,
