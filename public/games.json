@@ -4,8 +4,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 1068,
-      "visits": 20287955,
+      "playing": 1065,
+      "visits": 20288409,
       "likeRatio": 69,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -17,15 +17,6 @@
       "visits": 40797669,
       "likeRatio": 72,
       "icon": "https://tr.rbxcdn.com/180DAY-60a2db071613f3c7ff4baeaff239e977/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6743843913,
-      "rootPlaceId": 128600294498821,
-      "name": "2 Player Duck Tycoon",
-      "playing": 436,
-      "visits": 14273314,
-      "likeRatio": 97,
-      "icon": "https://tr.rbxcdn.com/180DAY-c1bc077d118b97c84d216dbf625f19da/768/432/Image/Png/noFilter"
     },
     {
       "id": 7923536197,
@@ -40,8 +31,8 @@
       "id": 8154106881,
       "rootPlaceId": 96576246305727,
       "name": "Feed Your Meme",
-      "playing": 259,
-      "visits": 982474,
+      "playing": 226,
+      "visits": 982588,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-cf4a16b465f2c8e875f1e8face4f8dd2/768/432/Image/Png/noFilter"
     },
@@ -85,8 +76,8 @@
       "id": 8030001602,
       "rootPlaceId": 138241781054404,
       "name": "Superhero Jump Clicker 🦸🚀",
-      "playing": 57,
-      "visits": 217116,
+      "playing": 48,
+      "visits": 217144,
       "likeRatio": 53,
       "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
     },
@@ -94,8 +85,8 @@
       "id": 7401898945,
       "rootPlaceId": 119763530757359,
       "name": "Midnight Stalker [HORROR]",
-      "playing": 45,
-      "visits": 947048,
+      "playing": 43,
+      "visits": 947059,
       "likeRatio": 93,
       "icon": "https://tr.rbxcdn.com/180DAY-6b94c5ee4823d7004489e4c716e93d6c/768/432/Image/Png/noFilter"
     },
@@ -109,11 +100,20 @@
       "icon": "https://tr.rbxcdn.com/180DAY-44f3207588167522883c24e9f9a9aa59/768/432/Image/Png/noFilter"
     },
     {
+      "id": 7349366409,
+      "rootPlaceId": 94531073688710,
+      "name": "Blobfish Evolution",
+      "playing": 24,
+      "visits": 1566295,
+      "likeRatio": 78,
+      "icon": "https://tr.rbxcdn.com/180DAY-1c4ae19cb6bdc4de60172349f76d0e26/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 6614175388,
       "rootPlaceId": 110188985157419,
       "name": "Find the Monkeys 🐵",
-      "playing": 27,
-      "visits": 1801133,
+      "playing": 23,
+      "visits": 1801148,
       "likeRatio": 95,
       "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
     },
@@ -121,35 +121,17 @@
       "id": 6463581673,
       "rootPlaceId": 93262241099803,
       "name": "Find the Teddy Bears 🧸",
-      "playing": 20,
-      "visits": 1672846,
+      "playing": 17,
+      "visits": 1672854,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-b387ecde2072ee0fad4d9f5d88175731/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7349366409,
-      "rootPlaceId": 94531073688710,
-      "name": "Blobfish Evolution",
-      "playing": 19,
-      "visits": 1566287,
-      "likeRatio": 78,
-      "icon": "https://tr.rbxcdn.com/180DAY-1c4ae19cb6bdc4de60172349f76d0e26/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7309264740,
-      "rootPlaceId": 133065705122006,
-      "name": "Midnight Groceries [HORROR]",
-      "playing": 9,
-      "visits": 484254,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
     },
     {
       "id": 6528524000,
       "rootPlaceId": 119929651027130,
       "name": "Find the Frogs 🐸",
-      "playing": 6,
-      "visits": 1315061,
+      "playing": 10,
+      "visits": 1315063,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
     },
