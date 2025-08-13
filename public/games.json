@@ -4,8 +4,8 @@
       "id": 2946951335,
       "rootPlaceId": 7585576110,
       "name": "Squid Game [S3]",
-      "playing": 1745,
-      "visits": 41521325,
+      "playing": 1744,
+      "visits": 41523474,
       "likeRatio": 72,
       "icon": "https://tr.rbxcdn.com/180DAY-60a2db071613f3c7ff4baeaff239e977/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 1671,
-      "visits": 20626850,
+      "playing": 1648,
+      "visits": 20627944,
       "likeRatio": 69,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -112,8 +112,8 @@
       "id": 6614175388,
       "rootPlaceId": 110188985157419,
       "name": "Find the Monkeys 🐵",
-      "playing": 29,
-      "visits": 1806857,
+      "playing": 31,
+      "visits": 1806878,
       "likeRatio": 95,
       "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
     },
@@ -145,6 +145,15 @@
       "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
     },
     {
+      "id": 6528524000,
+      "rootPlaceId": 119929651027130,
+      "name": "Find the Frogs 🐸",
+      "playing": 7,
+      "visits": 1316884,
+      "likeRatio": 90,
+      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 7517851351,
       "rootPlaceId": 81889525577944,
       "name": "Midnight Sprunki [HORROR]",
@@ -163,15 +172,6 @@
       "icon": "https://tr.rbxcdn.com/180DAY-99cc172dadbf1489188e3cde15cd96f7/768/432/Image/Png/noFilter"
     },
     {
-      "id": 6528524000,
-      "rootPlaceId": 119929651027130,
-      "name": "Find the Frogs 🐸",
-      "playing": 4,
-      "visits": 1316878,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 7096838238,
       "rootPlaceId": 92936512203560,
       "name": "Evade Protocol | FPS",
@@ -184,8 +184,8 @@
       "id": 6789766645,
       "rootPlaceId": 90221426386460,
       "name": "Find the Doges 🐶",
-      "playing": 2,
-      "visits": 674568,
+      "playing": 1,
+      "visits": 674570,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-f1ca78d99552ee016bcd2b7eee56f6cf/768/432/Image/Png/noFilter"
     },
