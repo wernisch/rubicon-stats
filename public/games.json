@@ -40,10 +40,19 @@
       "id": 7923536197,
       "rootPlaceId": 117262185010169,
       "name": "Brainrot Stairs",
-      "playing": 284,
-      "visits": 1578455,
+      "playing": 282,
+      "visits": 1578639,
       "likeRatio": 75,
       "icon": "https://tr.rbxcdn.com/180DAY-16bc814ca469b5c00b7299f9756b20bc/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8030001602,
+      "rootPlaceId": 138241781054404,
+      "name": "Superhero Jump Clicker 🦸🚀",
+      "playing": 242,
+      "visits": 264906,
+      "likeRatio": 54,
+      "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
     },
     {
       "id": 7016268111,
@@ -53,15 +62,6 @@
       "visits": 6121279,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8030001602,
-      "rootPlaceId": 138241781054404,
-      "name": "Superhero Jump Clicker 🦸🚀",
-      "playing": 210,
-      "visits": 264787,
-      "likeRatio": 54,
-      "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
     },
     {
       "id": 7166097502,
@@ -94,8 +94,8 @@
       "id": 3071634329,
       "rootPlaceId": 7944970325,
       "name": "Emily [HORROR]",
-      "playing": 47,
-      "visits": 5246677,
+      "playing": 57,
+      "visits": 5246704,
       "likeRatio": 86,
       "icon": "https://tr.rbxcdn.com/180DAY-44f3207588167522883c24e9f9a9aa59/768/432/Image/Png/noFilter"
     },
@@ -103,28 +103,10 @@
       "id": 7349366409,
       "rootPlaceId": 94531073688710,
       "name": "Blobfish Evolution",
-      "playing": 40,
-      "visits": 1575949,
+      "playing": 36,
+      "visits": 1575962,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-1c4ae19cb6bdc4de60172349f76d0e26/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7263505269,
-      "rootPlaceId": 133104769669525,
-      "name": "Find the Dinos 🦕",
-      "playing": 30,
-      "visits": 690381,
-      "likeRatio": 86,
-      "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6614175388,
-      "rootPlaceId": 110188985157419,
-      "name": "Find the Monkeys 🐵",
-      "playing": 26,
-      "visits": 1811391,
-      "likeRatio": 95,
-      "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
     },
     {
       "id": 7401898945,
@@ -139,8 +121,8 @@
       "id": 7309264740,
       "rootPlaceId": 133065705122006,
       "name": "Midnight Groceries [HORROR]",
-      "playing": 22,
-      "visits": 489429,
+      "playing": 21,
+      "visits": 489437,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
     },
@@ -163,15 +145,6 @@
       "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
     },
     {
-      "id": 7072328729,
-      "rootPlaceId": 74938806882243,
-      "name": "Wait in Line to Become Frontman 🦑",
-      "playing": 4,
-      "visits": 1398631,
-      "likeRatio": 39,
-      "icon": "https://tr.rbxcdn.com/180DAY-72391e6c54f556aadc81e79a744dddc5/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 6789766645,
       "rootPlaceId": 90221426386460,
       "name": "Find the Doges 🐶",
@@ -181,13 +154,13 @@
       "icon": "https://tr.rbxcdn.com/180DAY-f1ca78d99552ee016bcd2b7eee56f6cf/768/432/Image/Png/noFilter"
     },
     {
-      "id": 4800580998,
-      "rootPlaceId": 13844095552,
-      "name": "Hell Battlegrounds",
+      "id": 7072328729,
+      "rootPlaceId": 74938806882243,
+      "name": "Wait in Line to Become Frontman 🦑",
       "playing": 2,
-      "visits": 1174134,
-      "likeRatio": 62,
-      "icon": "https://tr.rbxcdn.com/180DAY-169ea4be6aa57533174bb5c09e7e57ab/768/432/Image/Png/noFilter"
+      "visits": 1398636,
+      "likeRatio": 39,
+      "icon": "https://tr.rbxcdn.com/180DAY-72391e6c54f556aadc81e79a744dddc5/768/432/Image/Png/noFilter"
     },
     {
       "id": 7096838238,
@@ -235,6 +208,15 @@
       "icon": "https://tr.rbxcdn.com/180DAY-d4dfb1ce105a57a91cfa54216124f756/768/432/Image/Png/noFilter"
     },
     {
+      "id": 4800580998,
+      "rootPlaceId": 13844095552,
+      "name": "Hell Battlegrounds",
+      "playing": 0,
+      "visits": 1174137,
+      "likeRatio": 62,
+      "icon": "https://tr.rbxcdn.com/180DAY-169ea4be6aa57533174bb5c09e7e57ab/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 2505069317,
       "rootPlaceId": 6659645288,
       "name": "Gold Mining Tycoon",
@@ -242,6 +224,15 @@
       "visits": 446505,
       "likeRatio": 80,
       "icon": "https://tr.rbxcdn.com/180DAY-2078d205cdec0e8360688a9c9c5c3529/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 5049176019,
+      "rootPlaceId": 14640454671,
+      "name": "Slingshot Obby [2 Player Obby] ",
+      "playing": 0,
+      "visits": 6209871,
+      "likeRatio": 97,
+      "icon": "https://tr.rbxcdn.com/180DAY-26287e27748faf4fa233057960d112a8/768/432/Image/Png/noFilter"
     },
     {
       "id": 7424382390,
