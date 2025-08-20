@@ -13,8 +13,8 @@
       "id": 8120277194,
       "rootPlaceId": 94814332487701,
       "name": "[UPD]Squid Game Roleplay Tower",
-      "playing": 943,
-      "visits": 3456574,
+      "playing": 1006,
+      "visits": 3457165,
       "likeRatio": 91,
       "icon": "https://tr.rbxcdn.com/180DAY-7bb3974ce684358ff05ee3b13dc743ad/768/432/Image/Png/noFilter"
     },
@@ -37,6 +37,15 @@
       "icon": "https://tr.rbxcdn.com/180DAY-707dbbbf9f188eb8a02c57a4618b1967/768/432/Image/Png/noFilter"
     },
     {
+      "id": 7016268111,
+      "rootPlaceId": 110729496024718,
+      "name": "Find the Ducks 2 🐤",
+      "playing": 196,
+      "visits": 6314739,
+      "likeRatio": 96,
+      "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 7923536197,
       "rootPlaceId": 117262185010169,
       "name": "Brainrot Stairs",
@@ -46,13 +55,13 @@
       "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
     },
     {
-      "id": 7016268111,
-      "rootPlaceId": 110729496024718,
-      "name": "Find the Ducks 2 🐤",
-      "playing": 185,
-      "visits": 6314639,
-      "likeRatio": 96,
-      "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
+      "id": 8030001602,
+      "rootPlaceId": 138241781054404,
+      "name": "Superhero Jump Clicker 🦸🚀",
+      "playing": 150,
+      "visits": 440418,
+      "likeRatio": 60,
+      "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
     },
     {
       "id": 7166097502,
@@ -76,8 +85,8 @@
       "id": 6431757712,
       "rootPlaceId": 18984604254,
       "name": "Find the Ducks 🐤",
-      "playing": 96,
-      "visits": 14565426,
+      "playing": 98,
+      "visits": 14565471,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-79c678279c1485a35a8ad2c44b851f5b/768/432/Image/Png/noFilter"
     },
@@ -118,15 +127,6 @@
       "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
     },
     {
-      "id": 6614175388,
-      "rootPlaceId": 110188985157419,
-      "name": "Find the Monkeys 🐵",
-      "playing": 9,
-      "visits": 1832287,
-      "likeRatio": 95,
-      "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 6463581673,
       "rootPlaceId": 93262241099803,
       "name": "Find the Teddy Bears 🧸",
@@ -134,15 +134,6 @@
       "visits": 1690381,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-b387ecde2072ee0fad4d9f5d88175731/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7096838238,
-      "rootPlaceId": 92936512203560,
-      "name": "Evade Protocol | FPS",
-      "playing": 4,
-      "visits": 539100,
-      "likeRatio": 67,
-      "icon": "https://tr.rbxcdn.com/180DAY-276d435f5b0bfbd05a73ef1b47e3ab87/768/432/Image/Png/noFilter"
     },
     {
       "id": 7263505269,
@@ -158,9 +149,18 @@
       "rootPlaceId": 90221426386460,
       "name": "Find the Doges 🐶",
       "playing": 3,
-      "visits": 677601,
+      "visits": 677605,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-f1ca78d99552ee016bcd2b7eee56f6cf/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7096838238,
+      "rootPlaceId": 92936512203560,
+      "name": "Evade Protocol | FPS",
+      "playing": 3,
+      "visits": 539102,
+      "likeRatio": 67,
+      "icon": "https://tr.rbxcdn.com/180DAY-276d435f5b0bfbd05a73ef1b47e3ab87/768/432/Image/Png/noFilter"
     },
     {
       "id": 6528524000,
