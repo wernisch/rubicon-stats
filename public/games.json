@@ -4,8 +4,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 2175,
-      "visits": 23115478,
+      "playing": 2148,
+      "visits": 23116466,
       "likeRatio": 69,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 8120277194,
       "rootPlaceId": 94814332487701,
       "name": "[UPD]Squid Game Roleplay Tower",
-      "playing": 1664,
-      "visits": 4129252,
+      "playing": 1718,
+      "visits": 4129956,
       "likeRatio": 91,
       "icon": "https://tr.rbxcdn.com/180DAY-7bb3974ce684358ff05ee3b13dc743ad/768/432/Image/Png/noFilter"
     },
@@ -49,8 +49,8 @@
       "id": 7168683817,
       "rootPlaceId": 101877418419164,
       "name": "[Update 4] Crazy Shooter 🔫",
-      "playing": 232,
-      "visits": 22220358,
+      "playing": 225,
+      "visits": 22220445,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-707dbbbf9f188eb8a02c57a4618b1967/768/432/Image/Png/noFilter"
     },
@@ -82,6 +82,15 @@
       "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
     },
     {
+      "id": 8030001602,
+      "rootPlaceId": 138241781054404,
+      "name": "Superhero Jump Clicker 🦸🚀",
+      "playing": 108,
+      "visits": 488339,
+      "likeRatio": 60,
+      "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 6431757712,
       "rootPlaceId": 18984604254,
       "name": "Find the Ducks 🐤",
@@ -89,15 +98,6 @@
       "visits": 14602344,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-79c678279c1485a35a8ad2c44b851f5b/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8030001602,
-      "rootPlaceId": 138241781054404,
-      "name": "Superhero Jump Clicker 🦸🚀",
-      "playing": 101,
-      "visits": 488284,
-      "likeRatio": 60,
-      "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
     },
     {
       "id": 3071634329,
@@ -130,8 +130,8 @@
       "id": 7401898945,
       "rootPlaceId": 119763530757359,
       "name": "Midnight Stalker [HORROR]",
-      "playing": 27,
-      "visits": 991056,
+      "playing": 24,
+      "visits": 991062,
       "likeRatio": 93,
       "icon": "https://tr.rbxcdn.com/180DAY-6b94c5ee4823d7004489e4c716e93d6c/768/432/Image/Png/noFilter"
     },
@@ -184,10 +184,19 @@
       "id": 6528524000,
       "rootPlaceId": 119929651027130,
       "name": "Find the Frogs 🐸",
-      "playing": 2,
-      "visits": 1327892,
+      "playing": 3,
+      "visits": 1327894,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7096838238,
+      "rootPlaceId": 92936512203560,
+      "name": "Evade Protocol | FPS",
+      "playing": 3,
+      "visits": 540182,
+      "likeRatio": 67,
+      "icon": "https://tr.rbxcdn.com/180DAY-276d435f5b0bfbd05a73ef1b47e3ab87/768/432/Image/Png/noFilter"
     },
     {
       "id": 4800580998,
@@ -206,15 +215,6 @@
       "visits": 334591,
       "likeRatio": 70,
       "icon": "https://tr.rbxcdn.com/180DAY-8241f2d62a5d7a1d80839fdeaea1cbbc/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7096838238,
-      "rootPlaceId": 92936512203560,
-      "name": "Evade Protocol | FPS",
-      "playing": 0,
-      "visits": 540182,
-      "likeRatio": 67,
-      "icon": "https://tr.rbxcdn.com/180DAY-276d435f5b0bfbd05a73ef1b47e3ab87/768/432/Image/Png/noFilter"
     },
     {
       "id": 7072328729,
