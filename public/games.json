@@ -4,8 +4,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 965,
-      "visits": 26537351,
+      "playing": 1032,
+      "visits": 26538025,
       "likeRatio": 70,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -13,35 +13,35 @@
       "id": 2946951335,
       "rootPlaceId": 7585576110,
       "name": "Squid Game [S3]",
-      "playing": 550,
-      "visits": 48483858,
+      "playing": 478,
+      "visits": 48484576,
       "likeRatio": 72,
       "icon": "https://tr.rbxcdn.com/180DAY-60a2db071613f3c7ff4baeaff239e977/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8154106881,
-      "rootPlaceId": 96576246305727,
-      "name": "Feed Your Meme",
-      "playing": 133,
-      "visits": 1807485,
-      "likeRatio": 98,
-      "icon": "https://tr.rbxcdn.com/180DAY-cf4a16b465f2c8e875f1e8face4f8dd2/768/432/Image/Png/noFilter"
     },
     {
       "id": 6743843913,
       "rootPlaceId": 128600294498821,
       "name": "2 Player Duck Tycoon",
-      "playing": 114,
-      "visits": 15207449,
+      "playing": 122,
+      "visits": 15207531,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-c1bc077d118b97c84d216dbf625f19da/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8154106881,
+      "rootPlaceId": 96576246305727,
+      "name": "Feed Your Meme",
+      "playing": 111,
+      "visits": 1807571,
+      "likeRatio": 98,
+      "icon": "https://tr.rbxcdn.com/180DAY-cf4a16b465f2c8e875f1e8face4f8dd2/768/432/Image/Png/noFilter"
     },
     {
       "id": 8120277194,
       "rootPlaceId": 94814332487701,
       "name": "[UPD]Squid Game Roleplay Tower",
-      "playing": 111,
-      "visits": 5082319,
+      "playing": 94,
+      "visits": 5082420,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-7bb3974ce684358ff05ee3b13dc743ad/768/432/Image/Png/noFilter"
     },
@@ -49,8 +49,8 @@
       "id": 7168683817,
       "rootPlaceId": 101877418419164,
       "name": "[Update 4] Crazy Shooter 🔫",
-      "playing": 70,
-      "visits": 22504312,
+      "playing": 67,
+      "visits": 22504361,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-707dbbbf9f188eb8a02c57a4618b1967/768/432/Image/Png/noFilter"
     },
@@ -58,26 +58,17 @@
       "id": 7166097502,
       "rootPlaceId": 75917364083659,
       "name": "[UPD] Parkour Rush",
-      "playing": 57,
-      "visits": 55979867,
+      "playing": 48,
+      "visits": 55979905,
       "likeRatio": 37,
       "icon": "https://tr.rbxcdn.com/180DAY-ea47b2f328c575b7bc01588ffc6fee3f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7923536197,
-      "rootPlaceId": 117262185010169,
-      "name": "Brainrot Stairs",
-      "playing": 49,
-      "visits": 2233734,
-      "likeRatio": 73,
-      "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
     },
     {
       "id": 6431757712,
       "rootPlaceId": 18984604254,
       "name": "Find the Ducks 🐤",
-      "playing": 39,
-      "visits": 14722637,
+      "playing": 42,
+      "visits": 14722649,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-79c678279c1485a35a8ad2c44b851f5b/768/432/Image/Png/noFilter"
     },
@@ -85,17 +76,26 @@
       "id": 7016268111,
       "rootPlaceId": 110729496024718,
       "name": "Find the Ducks 2 🐤",
-      "playing": 36,
-      "visits": 6570598,
+      "playing": 39,
+      "visits": 6570615,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7923536197,
+      "rootPlaceId": 117262185010169,
+      "name": "Brainrot Stairs",
+      "playing": 35,
+      "visits": 2233774,
+      "likeRatio": 73,
+      "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
     },
     {
       "id": 7349366409,
       "rootPlaceId": 94531073688710,
       "name": "Blobfish Evolution",
-      "playing": 33,
-      "visits": 1672847,
+      "playing": 29,
+      "visits": 1672866,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-1c4ae19cb6bdc4de60172349f76d0e26/768/432/Image/Png/noFilter"
     },
@@ -103,53 +103,44 @@
       "id": 8030001602,
       "rootPlaceId": 138241781054404,
       "name": "Superhero Jump Clicker 🦸🚀",
-      "playing": 17,
-      "visits": 581561,
+      "playing": 19,
+      "visits": 581577,
       "likeRatio": 60,
       "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7401898945,
-      "rootPlaceId": 119763530757359,
-      "name": "Midnight Stalker [HORROR]",
-      "playing": 11,
-      "visits": 1024466,
-      "likeRatio": 93,
-      "icon": "https://tr.rbxcdn.com/180DAY-6b94c5ee4823d7004489e4c716e93d6c/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6528524000,
-      "rootPlaceId": 119929651027130,
-      "name": "Find the Frogs 🐸",
-      "playing": 6,
-      "visits": 1339047,
-      "likeRatio": 91,
-      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7263505269,
-      "rootPlaceId": 133104769669525,
-      "name": "Find the Dinos 🦕",
-      "playing": 6,
-      "visits": 725302,
-      "likeRatio": 86,
-      "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
     },
     {
       "id": 3071634329,
       "rootPlaceId": 7944970325,
       "name": "Emily [HORROR]",
-      "playing": 5,
-      "visits": 5368227,
+      "playing": 9,
+      "visits": 5368231,
       "likeRatio": 86,
       "icon": "https://tr.rbxcdn.com/180DAY-44f3207588167522883c24e9f9a9aa59/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7263505269,
+      "rootPlaceId": 133104769669525,
+      "name": "Find the Dinos 🦕",
+      "playing": 8,
+      "visits": 725306,
+      "likeRatio": 86,
+      "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 6528524000,
+      "rootPlaceId": 119929651027130,
+      "name": "Find the Frogs 🐸",
+      "playing": 4,
+      "visits": 1339051,
+      "likeRatio": 91,
+      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
     },
     {
       "id": 6463581673,
       "rootPlaceId": 93262241099803,
       "name": "Find the Teddy Bears 🧸",
       "playing": 4,
-      "visits": 1708373,
+      "visits": 1708376,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-b387ecde2072ee0fad4d9f5d88175731/768/432/Image/Png/noFilter"
     },
@@ -157,17 +148,26 @@
       "id": 6614175388,
       "rootPlaceId": 110188985157419,
       "name": "Find the Monkeys 🐵",
-      "playing": 3,
-      "visits": 1862392,
+      "playing": 2,
+      "visits": 1862394,
       "likeRatio": 95,
       "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7401898945,
+      "rootPlaceId": 119763530757359,
+      "name": "Midnight Stalker [HORROR]",
+      "playing": 2,
+      "visits": 1024470,
+      "likeRatio": 93,
+      "icon": "https://tr.rbxcdn.com/180DAY-6b94c5ee4823d7004489e4c716e93d6c/768/432/Image/Png/noFilter"
     },
     {
       "id": 7517851351,
       "rootPlaceId": 81889525577944,
       "name": "Midnight Sprunki [HORROR]",
       "playing": 1,
-      "visits": 675236,
+      "visits": 675238,
       "likeRatio": 84,
       "icon": "https://tr.rbxcdn.com/180DAY-6b6092da368bd9eb7829c89a4380265a/768/432/Image/Png/noFilter"
     },
@@ -176,7 +176,7 @@
       "rootPlaceId": 90221426386460,
       "name": "Find the Doges 🐶",
       "playing": 0,
-      "visits": 681422,
+      "visits": 681423,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-f1ca78d99552ee016bcd2b7eee56f6cf/768/432/Image/Png/noFilter"
     },
@@ -212,7 +212,7 @@
       "rootPlaceId": 82071022802894,
       "name": "Planets Merge Tycoon",
       "playing": 0,
-      "visits": 334938,
+      "visits": 334939,
       "likeRatio": 70,
       "icon": "https://tr.rbxcdn.com/180DAY-8241f2d62a5d7a1d80839fdeaea1cbbc/768/432/Image/Png/noFilter"
     },
