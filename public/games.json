@@ -1,85 +1,40 @@
 {
   "games": [
     {
-      "id": 7168683817,
-      "rootPlaceId": 101877418419164,
-      "name": "[Update 4] Crazy Shooter 🔫",
-      "playing": 201,
-      "visits": 22640551,
-      "likeRatio": 92,
-      "icon": "https://tr.rbxcdn.com/180DAY-707dbbbf9f188eb8a02c57a4618b1967/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7166097502,
-      "rootPlaceId": 75917364083659,
-      "name": "[UPD] Parkour Rush",
-      "playing": 118,
-      "visits": 56135434,
-      "likeRatio": 37,
-      "icon": "https://tr.rbxcdn.com/180DAY-ea47b2f328c575b7bc01588ffc6fee3f/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 7923536197,
       "rootPlaceId": 117262185010169,
       "name": "Brainrot Stairs",
-      "playing": 113,
-      "visits": 2341404,
+      "playing": 89,
+      "visits": 2341726,
       "likeRatio": 73,
       "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6431757712,
-      "rootPlaceId": 18984604254,
-      "name": "Find the Ducks 🐤",
-      "playing": 50,
-      "visits": 14779023,
-      "likeRatio": 96,
-      "icon": "https://tr.rbxcdn.com/180DAY-79c678279c1485a35a8ad2c44b851f5b/768/432/Image/Png/noFilter"
     },
     {
       "id": 7263505269,
       "rootPlaceId": 133104769669525,
       "name": "Find the Dinos 🦕",
-      "playing": 7,
-      "visits": 733356,
+      "playing": 11,
+      "visits": 733371,
       "likeRatio": 86,
       "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
     },
     {
-      "id": 6614175388,
-      "rootPlaceId": 110188985157419,
-      "name": "Find the Monkeys 🐵",
-      "playing": 6,
-      "visits": 1870821,
-      "likeRatio": 95,
-      "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
+      "id": 7309264740,
+      "rootPlaceId": 133065705122006,
+      "name": "Midnight Groceries [HORROR]",
+      "playing": 5,
+      "visits": 523163,
+      "likeRatio": 90,
+      "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
     },
     {
-      "id": 6528524000,
-      "rootPlaceId": 119929651027130,
-      "name": "Find the Frogs 🐸",
-      "playing": 2,
-      "visits": 1344621,
-      "likeRatio": 91,
-      "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7334543566,
-      "rootPlaceId": 76180383022463,
-      "name": "Grow Your Duck! 🐤",
+      "id": 6829990681,
+      "rootPlaceId": 82071022802894,
+      "name": "Planets Merge Tycoon",
       "playing": 0,
-      "visits": 149665,
-      "likeRatio": 86,
-      "icon": "https://tr.rbxcdn.com/180DAY-fcc90bace5508c0872fb4f6272944052/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 2505069317,
-      "rootPlaceId": 6659645288,
-      "name": "Gold Mining Tycoon",
-      "playing": 0,
-      "visits": 446532,
-      "likeRatio": 80,
-      "icon": "https://tr.rbxcdn.com/180DAY-2078d205cdec0e8360688a9c9c5c3529/768/432/Image/Png/noFilter"
+      "visits": 335066,
+      "likeRatio": 70,
+      "icon": "https://tr.rbxcdn.com/180DAY-8241f2d62a5d7a1d80839fdeaea1cbbc/768/432/Image/Png/noFilter"
     }
   ]
 }
