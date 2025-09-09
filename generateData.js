@@ -6,8 +6,6 @@ const gameIds = [
 ];
 
 
-
-
 const proxyUrl = "https://red-lotus.bloxyhdd.workers.dev/?url=";
 const BATCH_SIZE = 75;
 const REQUEST_TIMEOUT_MS = 20000;
