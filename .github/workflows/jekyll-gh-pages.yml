@@ -1,9 +1,16 @@
-name: Update Roblox Game Stats
+name: Update Lotus Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lotus-stats-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -11,29 +18,63 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
 
       - name: Run data generation script
         run: node generateData.js
 
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
       - name: Commit data
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
           git add public/games.json
-          git commit -m "Update game stats" || echo "No changes"
+          git commit -m "chore: update game stats $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes to commit"
 
-      - name: Push data using personal access token
+      - name: Rebase and push with retry
         env:
-          TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-          git push origin HEAD:main
+          set -e
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          if [ -n "$GH_PAT" ]; then
+            TOKEN="$GH_PAT"
+          else
+            TOKEN="${{ github.token }}"
+          fi
+          git remote set-url origin "https://x-access-token:${TOKEN}@github.com/${REPO}"
+          if git diff --cached --quiet; then
+            echo "No staged changes; will still sync with remote."
+          fi
+          for i in 1 2 3 4 5; do
+            git fetch origin "$BRANCH"
+            git pull --rebase origin "$BRANCH" || true
+            if git push origin HEAD:"$BRANCH"; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            echo "Push failed (attempt $i). Retrying..."
+            sleep $((RANDOM % 10 + 5))
+          done
+          echo "Failed to push after retries."
+          exit 1
