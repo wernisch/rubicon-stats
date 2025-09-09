@@ -1,40 +1,13 @@
 {
   "games": [
     {
-      "id": 7923536197,
-      "rootPlaceId": 117262185010169,
-      "name": "Brainrot Stairs",
-      "playing": 89,
-      "visits": 2341726,
-      "likeRatio": 73,
-      "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7263505269,
-      "rootPlaceId": 133104769669525,
-      "name": "Find the Dinos 🦕",
-      "playing": 11,
-      "visits": 733371,
-      "likeRatio": 86,
-      "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7309264740,
-      "rootPlaceId": 133065705122006,
-      "name": "Midnight Groceries [HORROR]",
-      "playing": 5,
-      "visits": 523163,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6829990681,
-      "rootPlaceId": 82071022802894,
-      "name": "Planets Merge Tycoon",
-      "playing": 0,
-      "visits": 335066,
-      "likeRatio": 70,
-      "icon": "https://tr.rbxcdn.com/180DAY-8241f2d62a5d7a1d80839fdeaea1cbbc/768/432/Image/Png/noFilter"
+      "id": 2726539206,
+      "rootPlaceId": 7069827593,
+      "name": "The Wall Experience 🧱",
+      "playing": 162,
+      "visits": 17264567,
+      "likeRatio": 54,
+      "icon": "https://tr.rbxcdn.com/180DAY-565c0a934c3b98d45ad1446601230b81/768/432/Image/Png/noFilter"
     }
   ]
 }
