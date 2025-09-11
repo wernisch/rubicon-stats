@@ -2,7 +2,7 @@ import fs from "fs";
 import fetch from "node-fetch";
 
 const gameIds = [
-    2726539206, 5383395997
+    2726539206, 5383395997, 7875250260
 ];
 
 
