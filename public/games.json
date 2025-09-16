@@ -4,8 +4,8 @@
       "id": 7984347522,
       "rootPlaceId": 134043695430459,
       "name": "Survival the Kpop Demon Hunters",
-      "playing": 587,
-      "visits": 8679084,
+      "playing": 546,
+      "visits": 8683363,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-a750ed3b9551c6f4eb5a3ff8c9488f26/768/432/Image/Png/noFilter"
     },
@@ -13,55 +13,55 @@
       "id": 7875250260,
       "rootPlaceId": 78721293586864,
       "name": "[BACK] Final Destination: HQ Collapse",
-      "playing": 391,
-      "visits": 6727523,
+      "playing": 325,
+      "visits": 6729667,
       "likeRatio": 72,
       "icon": "https://tr.rbxcdn.com/180DAY-682d1994eff7af9b8107c7d1e93eeb80/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 5383395997,
-      "rootPlaceId": 15592376692,
-      "name": "Mexican Buses",
-      "playing": 121,
-      "visits": 1086508,
-      "likeRatio": 77,
-      "icon": "https://tr.rbxcdn.com/180DAY-407e9c486595f504d906fac7d7c95598/768/432/Image/Png/noFilter"
     },
     {
       "id": 2726539206,
       "rootPlaceId": 7069827593,
       "name": "The Wall Experience 🧱",
-      "playing": 113,
-      "visits": 17505637,
+      "playing": 111,
+      "visits": 17506405,
       "likeRatio": 54,
       "icon": "https://tr.rbxcdn.com/180DAY-565c0a934c3b98d45ad1446601230b81/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 5383395997,
+      "rootPlaceId": 15592376692,
+      "name": "Mexican Buses",
+      "playing": 90,
+      "visits": 1087115,
+      "likeRatio": 77,
+      "icon": "https://tr.rbxcdn.com/180DAY-407e9c486595f504d906fac7d7c95598/768/432/Image/Png/noFilter"
     },
     {
       "id": 8633637129,
       "rootPlaceId": 115283052130481,
       "name": "🔥Phonk Troll Tower🎵",
-      "playing": 54,
-      "visits": 336986,
+      "playing": 32,
+      "visits": 337200,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-6b688157d0fe36ee80ecbb7debf17bb9/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7815573673,
-      "rootPlaceId": 107402037282669,
-      "name": "FD6 Skyview: Natural Disaster Survival",
-      "playing": 29,
-      "visits": 21188655,
-      "likeRatio": 78,
-      "icon": "https://tr.rbxcdn.com/180DAY-f6cbfe024ffee8e61ce17f56c0171d4b/768/432/Image/Png/noFilter"
     },
     {
       "id": 2044600948,
       "rootPlaceId": 5764386772,
       "name": "Survival the little mermaid Ariel🧜‍♀️",
-      "playing": 4,
-      "visits": 96739113,
+      "playing": 8,
+      "visits": 96739172,
       "likeRatio": 65,
       "icon": "https://tr.rbxcdn.com/180DAY-d1d26a51f979e3481b9541efa5654549/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7815573673,
+      "rootPlaceId": 107402037282669,
+      "name": "FD6 Skyview: Natural Disaster Survival",
+      "playing": 8,
+      "visits": 21188831,
+      "likeRatio": 78,
+      "icon": "https://tr.rbxcdn.com/180DAY-f6cbfe024ffee8e61ce17f56c0171d4b/768/432/Image/Png/noFilter"
     }
   ]
 }
