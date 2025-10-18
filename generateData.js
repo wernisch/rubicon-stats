@@ -6,7 +6,7 @@ const gameIds = [
 ];
 
 
-const proxyUrl = "https://red-lotus.bloxyhdd.workers.dev/?url=";
+const proxyUrl = "https://rubicon.bloxyhdd.workers.dev/?url=";
 const BATCH_SIZE = 75;
 const REQUEST_TIMEOUT_MS = 20000;
 const MAX_ATTEMPTS = 4;
