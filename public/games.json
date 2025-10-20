@@ -4,8 +4,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "[🎃EVENT] Prospecting! 💎",
-      "playing": 8582,
-      "visits": 156154585,
+      "playing": 8710,
+      "visits": 156176519,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-d313d74622534c323d7750c21f36fa00/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 8118561812,
       "rootPlaceId": 101385885290281,
       "name": "[🎃] Lift! 💪",
-      "playing": 234,
-      "visits": 253133,
+      "playing": 219,
+      "visits": 254063,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-aeba5a135f6b2d8f73f40ed8bdf977c7/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "[ROLLS OFFLINE] Football RNG.",
-      "playing": 50,
-      "visits": 74139399,
+      "playing": 43,
+      "visits": 74139715,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-fff21d66751222e08cfb3dd9d642d9d2/768/432/Image/Png/noFilter"
     },
@@ -31,8 +31,8 @@
       "id": 7577218041,
       "rootPlaceId": 101354156600579,
       "name": "[UPD4] Steal a Character",
-      "playing": 39,
-      "visits": 47584476,
+      "playing": 34,
+      "visits": 47585039,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-92f44bdcf123df066d9f060f3ca0515b/768/432/Image/Png/noFilter"
     },
@@ -40,17 +40,35 @@
       "id": 7429991374,
       "rootPlaceId": 85868514833579,
       "name": "PORTAL [2 Player Obby]",
-      "playing": 25,
-      "visits": 11428509,
+      "playing": 16,
+      "visits": 11428737,
       "likeRatio": 54,
       "icon": "https://tr.rbxcdn.com/180DAY-d6a9c41f8c5e6e25b1a93ababcea52f3/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 5134533546,
+      "rootPlaceId": 14903412499,
+      "name": "Obby But You're Blind",
+      "playing": 9,
+      "visits": 1887749,
+      "likeRatio": 63,
+      "icon": "https://tr.rbxcdn.com/180DAY-214310f410a4f6ef004d23d8cc184749/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 5374476232,
+      "rootPlaceId": 15569496371,
+      "name": "Zombie Apocalypse Tycoon",
+      "playing": 8,
+      "visits": 3425748,
+      "likeRatio": 90,
+      "icon": "https://tr.rbxcdn.com/180DAY-b5e055594821ee8eb7fea6a891729239/768/432/Image/Png/noFilter"
     },
     {
       "id": 6936093513,
       "rootPlaceId": 128513842376773,
       "name": "The Last Key: Eyeball’s Escape",
-      "playing": 14,
-      "visits": 1010380,
+      "playing": 7,
+      "visits": 1010443,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-af20558891ddc2104710045720185635/768/432/Image/Png/noFilter"
     },
@@ -58,28 +76,10 @@
       "id": 1680246327,
       "rootPlaceId": 4911733121,
       "name": "[2X 💰] Bank Tycoon 2",
-      "playing": 9,
-      "visits": 23952253,
+      "playing": 5,
+      "visits": 23952308,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-6dbc59b922eca89d0c68e5ec051291b4/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 5374476232,
-      "rootPlaceId": 15569496371,
-      "name": "Zombie Apocalypse Tycoon",
-      "playing": 8,
-      "visits": 3425703,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-b5e055594821ee8eb7fea6a891729239/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 5134533546,
-      "rootPlaceId": 14903412499,
-      "name": "Obby But You're Blind",
-      "playing": 8,
-      "visits": 1887576,
-      "likeRatio": 63,
-      "icon": "https://tr.rbxcdn.com/180DAY-214310f410a4f6ef004d23d8cc184749/768/432/Image/Png/noFilter"
     },
     {
       "id": 4759813126,
@@ -95,7 +95,7 @@
       "rootPlaceId": 12559115497,
       "name": "[UPD] Car Rental Tycoon",
       "playing": 0,
-      "visits": 7498666,
+      "visits": 7498673,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-608da8fa29bb7c47a7870653e9fe1a13/768/432/Image/Png/noFilter"
     },
