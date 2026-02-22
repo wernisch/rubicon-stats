@@ -4,8 +4,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "[♾️] Prospecting! 💎",
-      "playing": 6260,
-      "visits": 203301609,
+      "playing": 6244,
+      "visits": 203320117,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3971f8ec468000e7997bbcfa31263a3e/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "Survive the Apocalypse",
-      "playing": 834,
-      "visits": 327714,
+      "playing": 840,
+      "visits": 333707,
       "likeRatio": 81,
       "icon": "https://tr.rbxcdn.com/180DAY-15693fb65a01a9aa1a7394eaa6593e5b/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 8470980958,
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
-      "playing": 196,
-      "visits": 11251570,
+      "playing": 190,
+      "visits": 11253555,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-7ea0e51662387e448a4bf80f7083cab1/768/432/Image/Png/noFilter"
     },
@@ -31,8 +31,8 @@
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "[⭐] Football RNG.",
-      "playing": 126,
-      "visits": 75464278,
+      "playing": 134,
+      "visits": 75464991,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-eb632a35b54f4e5ce21b30e431fff028/768/432/Image/Png/noFilter"
     },
@@ -41,7 +41,7 @@
       "rootPlaceId": 102304385522813,
       "name": "[🐉UPD]Mythical Tower Defense",
       "playing": 83,
-      "visits": 3673986,
+      "visits": 3674647,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-0bac8735ee8d268121cfaf8ba7fa99c2/768/432/Image/Png/noFilter"
     },
@@ -49,8 +49,8 @@
       "id": 7429991374,
       "rootPlaceId": 85868514833579,
       "name": "PORTAL [2 Player Obby]",
-      "playing": 49,
-      "visits": 12607066,
+      "playing": 37,
+      "visits": 12607944,
       "likeRatio": 54,
       "icon": "https://tr.rbxcdn.com/180DAY-d6a9c41f8c5e6e25b1a93ababcea52f3/768/432/Image/Png/noFilter"
     },
@@ -58,8 +58,8 @@
       "id": 7577218041,
       "rootPlaceId": 101354156600579,
       "name": "[UPD4] Steal a Character",
-      "playing": 20,
-      "visits": 48792088,
+      "playing": 21,
+      "visits": 48792438,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-92f44bdcf123df066d9f060f3ca0515b/768/432/Image/Png/noFilter"
     },
@@ -67,8 +67,8 @@
       "id": 1680246327,
       "rootPlaceId": 4911733121,
       "name": "[2X 💰] Bank Tycoon 2",
-      "playing": 5,
-      "visits": 24082328,
+      "playing": 9,
+      "visits": 24082392,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-6dbc59b922eca89d0c68e5ec051291b4/768/432/Image/Png/noFilter"
     },
@@ -77,25 +77,16 @@
       "rootPlaceId": 101385885290281,
       "name": "[♾️] Lift! 💪",
       "playing": 5,
-      "visits": 1109268,
+      "visits": 1109316,
       "likeRatio": 87,
       "icon": "https://tr.rbxcdn.com/180DAY-47fee77b7e4923f49ae1ac132b6f1070/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 6936093513,
-      "rootPlaceId": 128513842376773,
-      "name": "The Last Key: Eyeball’s Escape",
-      "playing": 3,
-      "visits": 1095978,
-      "likeRatio": 78,
-      "icon": "https://tr.rbxcdn.com/180DAY-af20558891ddc2104710045720185635/768/432/Image/Png/noFilter"
     },
     {
       "id": 5374476232,
       "rootPlaceId": 15569496371,
       "name": "Zombie Apocalypse Tycoon",
-      "playing": 2,
-      "visits": 3496922,
+      "playing": 3,
+      "visits": 3496951,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-b5e055594821ee8eb7fea6a891729239/768/432/Image/Png/noFilter"
     },
@@ -104,9 +95,18 @@
       "rootPlaceId": 14903412499,
       "name": "Obby But You're Blind",
       "playing": 1,
-      "visits": 2236470,
+      "visits": 2236515,
       "likeRatio": 62,
       "icon": "https://tr.rbxcdn.com/180DAY-77d907db6b05c27645da073f50a079ed/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 6936093513,
+      "rootPlaceId": 128513842376773,
+      "name": "The Last Key: Eyeball’s Escape",
+      "playing": 0,
+      "visits": 1095984,
+      "likeRatio": 78,
+      "icon": "https://tr.rbxcdn.com/180DAY-af20558891ddc2104710045720185635/768/432/Image/Png/noFilter"
     },
     {
       "id": 4759813126,
@@ -122,7 +122,7 @@
       "rootPlaceId": 12559115497,
       "name": "[UPD] Car Rental Tycoon",
       "playing": 0,
-      "visits": 7510317,
+      "visits": 7510319,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-608da8fa29bb7c47a7870653e9fe1a13/768/432/Image/Png/noFilter"
     },
@@ -131,7 +131,7 @@
       "rootPlaceId": 95413120338183,
       "name": "⛏️ Deeplands [MINIONS!]",
       "playing": 0,
-      "visits": 178497,
+      "visits": 178500,
       "likeRatio": 64,
       "icon": "https://tr.rbxcdn.com/180DAY-3c4b20e4b11e30c0a13b7ed36c6e7efb/768/432/Image/Png/noFilter"
     }
