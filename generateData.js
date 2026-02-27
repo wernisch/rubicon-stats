@@ -6,6 +6,7 @@ const gameIds = [
         8695949193, // Mythic Tower Defense
         8470980958, // Build a Mech
         9098570654, // Apocalypse
+        8663821186, // Your Mob Spawners
 ];
 
 
