@@ -4,8 +4,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "[⌛] 🧟 Survive the Apocalypse",
-      "playing": 44744,
-      "visits": 67517233,
+      "playing": 44361,
+      "visits": 67668175,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-33ce70c12a995a5f074e6d52d097dc6c/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "[🌀] Prospecting! 💎",
-      "playing": 6164,
-      "visits": 221933320,
+      "playing": 6386,
+      "visits": 221953269,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-e18515933a4c6208e2176d2f0351f12c/768/432/Image/Png/noFilter"
     },
@@ -22,71 +22,62 @@
       "id": 8470980958,
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
-      "playing": 146,
-      "visits": 12891526,
+      "playing": 92,
+      "visits": 12892833,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-47eb7b3daf4c3be28cb6ffd477bbafe9/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8695949193,
-      "rootPlaceId": 102304385522813,
-      "name": "[🐉UPD]Mythical Tower Defense",
-      "playing": 106,
-      "visits": 4357800,
-      "likeRatio": 98,
-      "icon": "https://tr.rbxcdn.com/180DAY-0bac8735ee8d268121cfaf8ba7fa99c2/768/432/Image/Png/noFilter"
     },
     {
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "[TOTS] Football RNG.",
-      "playing": 73,
-      "visits": 75944896,
+      "playing": 78,
+      "visits": 75945301,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-eb632a35b54f4e5ce21b30e431fff028/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8695949193,
+      "rootPlaceId": 102304385522813,
+      "name": "[🐉UPD]Mythical Tower Defense",
+      "playing": 67,
+      "visits": 4358609,
+      "likeRatio": 98,
+      "icon": "https://tr.rbxcdn.com/180DAY-0bac8735ee8d268121cfaf8ba7fa99c2/768/432/Image/Png/noFilter"
     },
     {
       "id": 8663821186,
       "rootPlaceId": 92907799075447,
       "name": "🔥 Mob Spawners",
-      "playing": 16,
-      "visits": 504844,
+      "playing": 17,
+      "visits": 504949,
       "likeRatio": 74,
       "icon": "https://tr.rbxcdn.com/180DAY-a8ac0a300430d68dd2e68b5ea53b28f2/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7429991374,
-      "rootPlaceId": 85868514833579,
-      "name": "PORTAL [2 Player Obby]",
-      "playing": 10,
-      "visits": 12877560,
-      "likeRatio": 55,
-      "icon": "https://tr.rbxcdn.com/180DAY-d6a9c41f8c5e6e25b1a93ababcea52f3/768/432/Image/Png/noFilter"
     },
     {
       "id": 4759813126,
       "rootPlaceId": 13716027142,
       "name": "😱 Stay In The Light",
-      "playing": 9,
-      "visits": 20011795,
+      "playing": 8,
+      "visits": 20011878,
       "likeRatio": 67,
       "icon": "https://tr.rbxcdn.com/180DAY-dc89f498dee2e94ffbcddf46bbb90844/768/432/Image/Png/noFilter"
     },
     {
-      "id": 7577218041,
-      "rootPlaceId": 101354156600579,
-      "name": "[UPD4] Steal a Character",
-      "playing": 8,
-      "visits": 49040020,
-      "likeRatio": 94,
-      "icon": "https://tr.rbxcdn.com/180DAY-92f44bdcf123df066d9f060f3ca0515b/768/432/Image/Png/noFilter"
+      "id": 7429991374,
+      "rootPlaceId": 85868514833579,
+      "name": "PORTAL [2 Player Obby]",
+      "playing": 4,
+      "visits": 12877683,
+      "likeRatio": 55,
+      "icon": "https://tr.rbxcdn.com/180DAY-d6a9c41f8c5e6e25b1a93ababcea52f3/768/432/Image/Png/noFilter"
     },
     {
       "id": 8118561812,
       "rootPlaceId": 101385885290281,
       "name": "[♾️] Lift! 💪",
-      "playing": 5,
-      "visits": 1138959,
+      "playing": 4,
+      "visits": 1138971,
       "likeRatio": 87,
       "icon": "https://tr.rbxcdn.com/180DAY-47fee77b7e4923f49ae1ac132b6f1070/768/432/Image/Png/noFilter"
     },
@@ -94,44 +85,53 @@
       "id": 1680246327,
       "rootPlaceId": 4911733121,
       "name": "[2X 💰] Bank Tycoon 2",
-      "playing": 4,
-      "visits": 24103815,
+      "playing": 3,
+      "visits": 24103839,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-6668523303333d9321e3b35df374e3ea/768/432/Image/Png/noFilter"
     },
     {
-      "id": 4410725758,
-      "rootPlaceId": 12559115497,
-      "name": "[UPD] Car Rental Tycoon",
+      "id": 7577218041,
+      "rootPlaceId": 101354156600579,
+      "name": "[UPD4] Steal a Character",
+      "playing": 2,
+      "visits": 49040178,
+      "likeRatio": 94,
+      "icon": "https://tr.rbxcdn.com/180DAY-92f44bdcf123df066d9f060f3ca0515b/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 5374476232,
+      "rootPlaceId": 15569496371,
+      "name": "Zombie Apocalypse Tycoon",
       "playing": 1,
-      "visits": 7514623,
-      "likeRatio": 89,
-      "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
+      "visits": 3501981,
+      "likeRatio": 90,
+      "icon": "https://tr.rbxcdn.com/180DAY-4875eae20421a78465584cb7e806242c/768/432/Image/Png/noFilter"
     },
     {
       "id": 6936093513,
       "rootPlaceId": 128513842376773,
       "name": "The Last Key: Eyeball’s Escape",
       "playing": 0,
-      "visits": 1098734,
+      "visits": 1098736,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-af20558891ddc2104710045720185635/768/432/Image/Png/noFilter"
     },
     {
-      "id": 5374476232,
-      "rootPlaceId": 15569496371,
-      "name": "Zombie Apocalypse Tycoon",
+      "id": 4410725758,
+      "rootPlaceId": 12559115497,
+      "name": "[UPD] Car Rental Tycoon",
       "playing": 0,
-      "visits": 3501977,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-4875eae20421a78465584cb7e806242c/768/432/Image/Png/noFilter"
+      "visits": 7514626,
+      "likeRatio": 89,
+      "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
     },
     {
       "id": 5134533546,
       "rootPlaceId": 14903412499,
       "name": "Obby But You're Blind",
       "playing": 0,
-      "visits": 2256093,
+      "visits": 2256097,
       "likeRatio": 62,
       "icon": "https://tr.rbxcdn.com/180DAY-eddd826e64d06a5dce31164ada749b3d/768/432/Image/Png/noFilter"
     },
@@ -140,7 +140,7 @@
       "rootPlaceId": 95413120338183,
       "name": "⛏️ Deeplands [MINIONS!]",
       "playing": 0,
-      "visits": 179075,
+      "visits": 179076,
       "likeRatio": 64,
       "icon": "https://tr.rbxcdn.com/180DAY-3c4b20e4b11e30c0a13b7ed36c6e7efb/768/432/Image/Png/noFilter"
     }
