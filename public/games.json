@@ -4,8 +4,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "[UPD] 🧟 Survive the Apocalypse",
-      "playing": 16383,
-      "visits": 174918126,
+      "playing": 16570,
+      "visits": 174982296,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-38c36a1f40034aab3d1952aaf78ce307/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "[🌞EVENT] Prospecting! 💎",
-      "playing": 5511,
-      "visits": 241093035,
+      "playing": 5798,
+      "visits": 241110470,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3e06262bdab91fd3d23b05e6f113752a/768/432/Image/Png/noFilter"
     },
@@ -23,25 +23,16 @@
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
       "playing": 87,
-      "visits": 14082281,
+      "visits": 14083175,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-47eb7b3daf4c3be28cb6ffd477bbafe9/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8695949193,
-      "rootPlaceId": 102304385522813,
-      "name": "[🐉UPD]Mythical Tower Defense",
-      "playing": 26,
-      "visits": 4797470,
-      "likeRatio": 98,
-      "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
     },
     {
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "[⚔️] Football RNG.",
-      "playing": 24,
-      "visits": 76262292,
+      "playing": 28,
+      "visits": 76262410,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-eb632a35b54f4e5ce21b30e431fff028/768/432/Image/Png/noFilter"
     },
@@ -49,28 +40,37 @@
       "id": 4759813126,
       "rootPlaceId": 13716027142,
       "name": "[CH2] 😱 Stay In The Light",
-      "playing": 9,
-      "visits": 20388584,
+      "playing": 24,
+      "visits": 20388674,
       "likeRatio": 67,
       "icon": "https://tr.rbxcdn.com/180DAY-4d6ed1f3806ebc1f65c2b62528e716a3/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8695949193,
+      "rootPlaceId": 102304385522813,
+      "name": "[🐉UPD]Mythical Tower Defense",
+      "playing": 22,
+      "visits": 4797700,
+      "likeRatio": 98,
+      "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8118561812,
+      "rootPlaceId": 101385885290281,
+      "name": "[♾️] Lift! 💪",
+      "playing": 3,
+      "visits": 1147400,
+      "likeRatio": 87,
+      "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
     },
     {
       "id": 7577218041,
       "rootPlaceId": 101354156600579,
       "name": "[UPD4] Steal a Character",
       "playing": 2,
-      "visits": 49146705,
+      "visits": 49146801,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-df20af94930e8e4aa1df32e7fa2c4bb1/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8118561812,
-      "rootPlaceId": 101385885290281,
-      "name": "[♾️] Lift! 💪",
-      "playing": 2,
-      "visits": 1147395,
-      "likeRatio": 87,
-      "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
     },
     {
       "id": 6936093513,
@@ -104,7 +104,7 @@
       "rootPlaceId": 12559115497,
       "name": "[UPD] Car Rental Tycoon",
       "playing": 0,
-      "visits": 7517915,
+      "visits": 7517916,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
     },
@@ -113,7 +113,7 @@
       "rootPlaceId": 14903412499,
       "name": "Obby But You're Blind",
       "playing": 0,
-      "visits": 2262085,
+      "visits": 2262087,
       "likeRatio": 62,
       "icon": "https://tr.rbxcdn.com/180DAY-eddd826e64d06a5dce31164ada749b3d/768/432/Image/Png/noFilter"
     },
@@ -140,7 +140,7 @@
       "rootPlaceId": 92907799075447,
       "name": "🔥 Mob Spawners",
       "playing": 0,
-      "visits": 554852,
+      "visits": 554856,
       "likeRatio": 76,
       "icon": "https://tr.rbxcdn.com/180DAY-a8ac0a300430d68dd2e68b5ea53b28f2/768/432/Image/Png/noFilter"
     }
