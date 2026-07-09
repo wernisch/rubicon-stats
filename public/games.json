@@ -4,8 +4,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "🧟 Survive the Apocalypse",
-      "playing": 20144,
-      "visits": 194126319,
+      "playing": 17217,
+      "visits": 194249839,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-5f35a2f0a3d043d3a523993c482d8005/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "[UPD] Prospecting! 💎",
-      "playing": 5706,
-      "visits": 246032081,
+      "playing": 5454,
+      "visits": 246065631,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3e06262bdab91fd3d23b05e6f113752a/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 8470980958,
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
-      "playing": 116,
-      "visits": 14427548,
+      "playing": 114,
+      "visits": 14429968,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-47eb7b3daf4c3be28cb6ffd477bbafe9/768/432/Image/Png/noFilter"
     },
@@ -31,8 +31,8 @@
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "Football RNG ⚽",
-      "playing": 46,
-      "visits": 76337425,
+      "playing": 36,
+      "visits": 76338001,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-eb632a35b54f4e5ce21b30e431fff028/768/432/Image/Png/noFilter"
     },
@@ -40,26 +40,17 @@
       "id": 8695949193,
       "rootPlaceId": 102304385522813,
       "name": "[🐉UPD]Mythical Tower Defense",
-      "playing": 20,
-      "visits": 4844961,
+      "playing": 13,
+      "visits": 4845223,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8118561812,
-      "rootPlaceId": 101385885290281,
-      "name": "[♾️] Lift! 💪",
-      "playing": 2,
-      "visits": 1149696,
-      "likeRatio": 87,
-      "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
     },
     {
       "id": 4759813126,
       "rootPlaceId": 13716027142,
       "name": "[CH2] 😱 Stay In The Light",
-      "playing": 1,
-      "visits": 20402280,
+      "playing": 7,
+      "visits": 20402353,
       "likeRatio": 67,
       "icon": "https://tr.rbxcdn.com/180DAY-4d6ed1f3806ebc1f65c2b62528e716a3/768/432/Image/Png/noFilter"
     },
@@ -79,7 +70,7 @@
       "playing": 0,
       "visits": 1101456,
       "likeRatio": 78,
-      "icon": "https://tr.rbxcdn.com/180DAY-af20558891ddc2104710045720185635/768/432/Image/Png/noFilter"
+      "icon": "https://tr.rbxcdn.com/180DAY-292f1a4d4bc2770e309a3611844fc7f5/768/432/Image/Png/noFilter"
     },
     {
       "id": 5374476232,
@@ -95,7 +86,7 @@
       "rootPlaceId": 4911733121,
       "name": "[2X 💰] Bank Tycoon 2",
       "playing": 0,
-      "visits": 24117938,
+      "visits": 24117940,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-6668523303333d9321e3b35df374e3ea/768/432/Image/Png/noFilter"
     },
@@ -104,7 +95,7 @@
       "rootPlaceId": 12559115497,
       "name": "[UPD] Car Rental Tycoon",
       "playing": 0,
-      "visits": 7518163,
+      "visits": 7518164,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
     },
@@ -136,11 +127,20 @@
       "icon": "https://tr.rbxcdn.com/180DAY-3c4b20e4b11e30c0a13b7ed36c6e7efb/768/432/Image/Png/noFilter"
     },
     {
+      "id": 8118561812,
+      "rootPlaceId": 101385885290281,
+      "name": "[♾️] Lift! 💪",
+      "playing": 0,
+      "visits": 1149712,
+      "likeRatio": 87,
+      "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 8663821186,
       "rootPlaceId": 92907799075447,
       "name": "🔥 Mob Spawners",
       "playing": 0,
-      "visits": 556294,
+      "visits": 556300,
       "likeRatio": 76,
       "icon": "https://tr.rbxcdn.com/180DAY-a8ac0a300430d68dd2e68b5ea53b28f2/768/432/Image/Png/noFilter"
     }
