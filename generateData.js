@@ -7,6 +7,7 @@ const gameIds = [
         8470980958, // Build a Mech
         9098570654, // Apocalypse
         8663821186, // Your Mob Spawners
+        10035204815,
 ];
 
 
