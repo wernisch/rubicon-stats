@@ -4,8 +4,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "[UPD] 🧟 Survive the Apocalypse",
-      "playing": 12193,
-      "visits": 257626022,
+      "playing": 17064,
+      "visits": 257808022,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-2a3547be02224b0e81154fb1e3bc465d/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 10035204815,
       "rootPlaceId": 124216119978534,
       "name": "Ride A Pet",
-      "playing": 6539,
-      "visits": 744361,
+      "playing": 9572,
+      "visits": 883733,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3ffbd41c5b51c95ae19350431588608e/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "[UPD] Prospecting! 💎",
-      "playing": 4116,
-      "visits": 260711077,
+      "playing": 4654,
+      "visits": 260755202,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3e06262bdab91fd3d23b05e6f113752a/768/432/Image/Png/noFilter"
     },
@@ -31,46 +31,37 @@
       "id": 8470980958,
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
-      "playing": 133,
-      "visits": 15416342,
+      "playing": 108,
+      "visits": 15420764,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-47eb7b3daf4c3be28cb6ffd477bbafe9/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8695949193,
-      "rootPlaceId": 102304385522813,
-      "name": "[🐉UPD]Mythical Tower Defense",
-      "playing": 18,
-      "visits": 4989617,
-      "likeRatio": 98,
-      "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
     },
     {
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "Football RNG ⚽",
-      "playing": 9,
-      "visits": 76479322,
+      "playing": 28,
+      "visits": 76479752,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-14b8cc238ad1ca70b24e01821a616fd1/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8695949193,
+      "rootPlaceId": 102304385522813,
+      "name": "[🐉UPD]Mythical Tower Defense",
+      "playing": 19,
+      "visits": 4990110,
+      "likeRatio": 98,
+      "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
     },
     {
       "id": 8118561812,
       "rootPlaceId": 101385885290281,
       "name": "[♾️] Lift! 💪",
-      "playing": 3,
-      "visits": 1194050,
+      "playing": 6,
+      "visits": 1194153,
       "likeRatio": 87,
       "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 1680246327,
-      "rootPlaceId": 4911733121,
-      "name": "[2X 💰] Bank Tycoon 2",
-      "playing": 1,
-      "visits": 24121610,
-      "likeRatio": 78,
-      "icon": "https://tr.rbxcdn.com/180DAY-6668523303333d9321e3b35df374e3ea/768/432/Image/Png/noFilter"
     },
     {
       "id": 7577218041,
@@ -109,11 +100,20 @@
       "icon": "https://tr.rbxcdn.com/180DAY-4d6ed1f3806ebc1f65c2b62528e716a3/768/432/Image/Png/noFilter"
     },
     {
+      "id": 1680246327,
+      "rootPlaceId": 4911733121,
+      "name": "[2X 💰] Bank Tycoon 2",
+      "playing": 0,
+      "visits": 24121618,
+      "likeRatio": 78,
+      "icon": "https://tr.rbxcdn.com/180DAY-6668523303333d9321e3b35df374e3ea/768/432/Image/Png/noFilter"
+    },
+    {
       "id": 4410725758,
       "rootPlaceId": 12559115497,
       "name": "[UPD] Car Rental Tycoon",
       "playing": 0,
-      "visits": 7518662,
+      "visits": 7518663,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
     },
@@ -122,7 +122,7 @@
       "rootPlaceId": 14903412499,
       "name": "Obby But You're Blind",
       "playing": 0,
-      "visits": 2263344,
+      "visits": 2263346,
       "likeRatio": 62,
       "icon": "https://tr.rbxcdn.com/180DAY-eddd826e64d06a5dce31164ada749b3d/768/432/Image/Png/noFilter"
     },
@@ -149,7 +149,7 @@
       "rootPlaceId": 92907799075447,
       "name": "🔥 Mob Spawners",
       "playing": 0,
-      "visits": 558900,
+      "visits": 558904,
       "likeRatio": 75,
       "icon": "https://tr.rbxcdn.com/180DAY-683c6c6e40baecc7d8819b8bc1e38b97/768/432/Image/Png/noFilter"
     }
