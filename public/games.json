@@ -4,8 +4,8 @@
       "id": 10035204815,
       "rootPlaceId": 124216119978534,
       "name": "Ride A Pet",
-      "playing": 84696,
-      "visits": 16576548,
+      "playing": 122040,
+      "visits": 18384340,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-3ffbd41c5b51c95ae19350431588608e/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "[UPD] 🧟 Survive the Apocalypse",
-      "playing": 7207,
-      "visits": 260226553,
+      "playing": 7247,
+      "visits": 260325440,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-2a3547be02224b0e81154fb1e3bc465d/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "Prospecting! 💎",
-      "playing": 2839,
-      "visits": 261522241,
+      "playing": 2590,
+      "visits": 261554348,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3e06262bdab91fd3d23b05e6f113752a/768/432/Image/Png/noFilter"
     },
@@ -31,8 +31,8 @@
       "id": 8470980958,
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
-      "playing": 49,
-      "visits": 15471363,
+      "playing": 76,
+      "visits": 15473790,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-47eb7b3daf4c3be28cb6ffd477bbafe9/768/432/Image/Png/noFilter"
     },
@@ -40,8 +40,8 @@
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "Football RNG ⚽",
-      "playing": 6,
-      "visits": 76483627,
+      "playing": 7,
+      "visits": 76483725,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-14b8cc238ad1ca70b24e01821a616fd1/768/432/Image/Png/noFilter"
     },
@@ -49,10 +49,19 @@
       "id": 8118561812,
       "rootPlaceId": 101385885290281,
       "name": "[♾️] Lift! 💪",
-      "playing": 6,
-      "visits": 1195708,
+      "playing": 7,
+      "visits": 1195868,
       "likeRatio": 87,
       "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8695949193,
+      "rootPlaceId": 102304385522813,
+      "name": "[🐉UPD]Mythical Tower Defense",
+      "playing": 1,
+      "visits": 4993889,
+      "likeRatio": 98,
+      "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
     },
     {
       "id": 7577218041,
@@ -68,7 +77,7 @@
       "rootPlaceId": 128513842376773,
       "name": "The Last Key: Eyeball’s Escape",
       "playing": 0,
-      "visits": 1102385,
+      "visits": 1102387,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-292f1a4d4bc2770e309a3611844fc7f5/768/432/Image/Png/noFilter"
     },
@@ -95,7 +104,7 @@
       "rootPlaceId": 4911733121,
       "name": "[2X 💰] Bank Tycoon 2",
       "playing": 0,
-      "visits": 24121775,
+      "visits": 24121782,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-6668523303333d9321e3b35df374e3ea/768/432/Image/Png/noFilter"
     },
@@ -136,20 +145,11 @@
       "icon": "https://tr.rbxcdn.com/180DAY-ffec1ee9d833e8f1f3f00c976772e06f/768/432/Image/Png/noFilter"
     },
     {
-      "id": 8695949193,
-      "rootPlaceId": 102304385522813,
-      "name": "[🐉UPD]Mythical Tower Defense",
-      "playing": 0,
-      "visits": 4993793,
-      "likeRatio": 98,
-      "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
-    },
-    {
       "id": 8663821186,
       "rootPlaceId": 92907799075447,
       "name": "🔥 Mob Spawners",
       "playing": 0,
-      "visits": 558996,
+      "visits": 558998,
       "likeRatio": 75,
       "icon": "https://tr.rbxcdn.com/180DAY-683c6c6e40baecc7d8819b8bc1e38b97/768/432/Image/Png/noFilter"
     }
