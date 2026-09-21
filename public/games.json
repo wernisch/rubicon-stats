@@ -4,8 +4,8 @@
       "id": 10035204815,
       "rootPlaceId": 124216119978534,
       "name": "[🧬] Ride A Pet",
-      "playing": 92024,
-      "visits": 54590640,
+      "playing": 92556,
+      "visits": 55628997,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-3ffbd41c5b51c95ae19350431588608e/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 9098570654,
       "rootPlaceId": 90148635862803,
       "name": "🧟 Survive the Apocalypse",
-      "playing": 8961,
-      "visits": 261837899,
+      "playing": 7652,
+      "visits": 261889860,
       "likeRatio": 94,
       "icon": "https://tr.rbxcdn.com/180DAY-2a3547be02224b0e81154fb1e3bc465d/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 7629331599,
       "rootPlaceId": 129827112113663,
       "name": "Prospecting! 💎",
-      "playing": 4090,
-      "visits": 262116706,
+      "playing": 3876,
+      "visits": 262138188,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-3e06262bdab91fd3d23b05e6f113752a/768/432/Image/Png/noFilter"
     },
@@ -31,46 +31,37 @@
       "id": 8470980958,
       "rootPlaceId": 132894356068775,
       "name": "Build a Mech",
-      "playing": 47,
-      "visits": 15512175,
+      "playing": 68,
+      "visits": 15513476,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-47eb7b3daf4c3be28cb6ffd477bbafe9/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8118561812,
-      "rootPlaceId": 101385885290281,
-      "name": "[♾️] Lift! 💪",
-      "playing": 15,
-      "visits": 1200269,
-      "likeRatio": 87,
-      "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
     },
     {
       "id": 5991139138,
       "rootPlaceId": 17504117264,
       "name": "Football RNG ⚽",
-      "playing": 10,
-      "visits": 76486950,
+      "playing": 11,
+      "visits": 76487056,
       "likeRatio": 88,
       "icon": "https://tr.rbxcdn.com/180DAY-14b8cc238ad1ca70b24e01821a616fd1/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8118561812,
+      "rootPlaceId": 101385885290281,
+      "name": "[♾️] Lift! 💪",
+      "playing": 5,
+      "visits": 1200452,
+      "likeRatio": 87,
+      "icon": "https://tr.rbxcdn.com/180DAY-7aaacf7b7ee8c196da4bb25c5d1034a6/768/432/Image/Png/noFilter"
     },
     {
       "id": 8695949193,
       "rootPlaceId": 102304385522813,
       "name": "[🐉UPD]Mythical Tower Defense",
-      "playing": 8,
-      "visits": 4996029,
+      "playing": 4,
+      "visits": 4996136,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-713d84ed1af750edb9a2d177fd6a049f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 4410725758,
-      "rootPlaceId": 12559115497,
-      "name": "[UPD] Car Rental Tycoon",
-      "playing": 1,
-      "visits": 7518723,
-      "likeRatio": 89,
-      "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
     },
     {
       "id": 7577218041,
@@ -86,7 +77,7 @@
       "rootPlaceId": 128513842376773,
       "name": "The Last Key: Eyeball’s Escape",
       "playing": 0,
-      "visits": 1102406,
+      "visits": 1102407,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-292f1a4d4bc2770e309a3611844fc7f5/768/432/Image/Png/noFilter"
     },
@@ -113,9 +104,18 @@
       "rootPlaceId": 4911733121,
       "name": "[2X 💰] Bank Tycoon 2",
       "playing": 0,
-      "visits": 24122016,
+      "visits": 24122027,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-6668523303333d9321e3b35df374e3ea/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 4410725758,
+      "rootPlaceId": 12559115497,
+      "name": "[UPD] Car Rental Tycoon",
+      "playing": 0,
+      "visits": 7518724,
+      "likeRatio": 89,
+      "icon": "https://tr.rbxcdn.com/180DAY-eba2acc270afc354bfaee09c52d14686/768/432/Image/Png/noFilter"
     },
     {
       "id": 5134533546,
@@ -149,7 +149,7 @@
       "rootPlaceId": 92907799075447,
       "name": "🔥 Mob Spawners",
       "playing": 0,
-      "visits": 559096,
+      "visits": 559101,
       "likeRatio": 75,
       "icon": "https://tr.rbxcdn.com/180DAY-683c6c6e40baecc7d8819b8bc1e38b97/768/432/Image/Png/noFilter"
     }
